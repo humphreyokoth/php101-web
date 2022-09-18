@@ -54,7 +54,7 @@
                         <li>
                             <input type="checkbox" name="checkbox" id="list-1" />
 
-                            <label class="label-2"> <?php echo $to_do_item  ?></label>
+                            <label class="label-2"> <?php echo $to_do_item ?></label>
                             <i class="fa-solid fa-trash-can deleteIcon"></i>
 
                             <i class="fa-solid fa-pencil editIcon "></i>
